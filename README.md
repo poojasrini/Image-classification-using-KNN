@@ -17,6 +17,6 @@ The 5 steps involved in any image classification problem are as follows:
 
 The above steps have been implemented in this project as well.</br>
 
-The Repository contains the following files:
-1)
-2)
+The Repository contains the following files:</br>
+1)  : which contains 50 images of each flower type along with the new images to be predicted.
+2)  : python notebook with the code
